@@ -1,9 +1,23 @@
- <center>
-  # Hi i'm Pasin Kansith but you can cell me "Pream" 👋
- </center>
+<p align="center">
+     
+ <h1 align="center">Hi i'm Pasin Kansith but you can cell me "Pream" 👋</h1>
+</p>
 
-😄 I’m currently learning UX/UI designer <br>
+<p align="center">
+ <h3 align="center">💻  I'm studying ux/ui designer at Suranaree University of Technology.💻</h3>
+</p></p>
+
+![photo](C:\Users\pream\Desktop\html\photo_film\KJF_01\000043.jpg)
+
+
+☁️I’m currently learning UX/UI designer <br>
+⛅I'm looking for help with Learning UI/UX designer and design system. <br>
+🌩️Fun fact: I am interested in photography with a film camera.
 📫 How to reach me: preamkansith1@gmail.com
+
+
+
+
 
 
 <!--
