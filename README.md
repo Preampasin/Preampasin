@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+## Hi i'm Pasin Kansith but you can cell me "Pream" 👋
+</p>
+
+😄 I’m currently learning UX/UI designer 
+📫 How to reach me: preamkansith1@gmail.com
+
 
 <!--
 **Preampasin/Preampasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
