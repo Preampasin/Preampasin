@@ -1,5 +1,5 @@
 <p align="center">
-## Hi i'm Pasin Kansith but you can cell me "Pream" 👋
+# Hi i'm Pasin Kansith but you can cell me "Pream" 👋
 </p>
 
 😄 I’m currently learning UX/UI designer <br>
