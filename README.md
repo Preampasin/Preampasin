@@ -5,16 +5,16 @@
 
 <p align="center">
  <h3 align="center">💻  I'm studying ux/ui designer at Suranaree University of Technology.💻</h3>
-</p></p>
+</p></p><br>
 
-![photo](C:\Users\pream\Desktop\html\photo_film\KJF_01\000043.jpg)
-
-
-☁️I’m currently learning UX/UI designer <br>
-⛅I'm looking for help with Learning UI/UX designer and design system. <br>
-🌩️Fun fact: I am interested in photography with a film camera.
-📫 How to reach me: preamkansith1@gmail.com
-
+<p align="center">
+  <img width="720" height="370" src="https://cdn.pixabay.com/photo/2016/11/29/06/15/plans-1867745_960_720.jpg">
+</p>
+     
+<h4>☁️I’m currently learning UX/UI designer </h4>
+<h4>⛅I'm looking for help with Learning UI/UX designer and design system. </h4>
+<h4>🌩️Fun fact: I am interested in photography with a film camera.</h4>
+<h4>📫 How to reach me: preamkansith1@gmail.com<h4><br>
 
 
 
