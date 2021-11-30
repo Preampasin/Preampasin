@@ -2,7 +2,7 @@
 ## Hi i'm Pasin Kansith but you can cell me "Pream" 👋
 </p>
 
-😄 I’m currently learning UX/UI designer 
+😄 I’m currently learning UX/UI designer <br>
 📫 How to reach me: preamkansith1@gmail.com
 
 
